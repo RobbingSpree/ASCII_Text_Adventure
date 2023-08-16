@@ -4,8 +4,8 @@ str = @" ___
 `---'"
 
 //dimentions in characters from monospace font
-wid = 6;
-hei = 5;
+wid = 4;
+hei = 4;
 
 h_out_char = "+";
 v_out_char = "+";

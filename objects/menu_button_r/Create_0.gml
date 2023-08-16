@@ -3,8 +3,8 @@ str = @" o
 / \"
 
 //dimentions in characters from monospace font
-wid = 6;
-hei = 5;
+wid = 4;
+hei = 3;
 
 h_out_char = "+";
 v_out_char = "+";
@@ -29,7 +29,7 @@ for (var i=0; i<hei-2; i++) {
 box_h += corner_char;
 box_v += corner_char;
 
-image_xscale = string_width(box_h)/sprite_width;
-image_yscale = string_height(box_v)/sprite_height;
+image_xscale = string_width(box_h)/(sprite_width*0.75);
+image_yscale = string_height(box_v)/(sprite_height*0.75);
 
 draw_set_font(-1);
