@@ -28,16 +28,16 @@ if x<room_width {
 	//Outfit
 	draw_menu_titletext(outfit)
 	//underware layer
-	draw_menu_titletext(underware_heading);
-	draw_outfit_text(underware_body);
-	draw_outfit_text(underware_legs); 
+	draw_menu_titletext(underwear_heading);
+	draw_outfit_text(underwear_body);
+	draw_outfit_text(underwear_legs); 
 	//onskin layer
 	draw_menu_titletext(onskin_heading); 
 	draw_outfit_text(onskin_body);
 	draw_outfit_text(onskin_legs);
 	//outerware layer
-	draw_menu_titletext(outerware_heading);
-	draw_outfit_text(outerware_body);
+	draw_menu_titletext(outerwear_heading);
+	draw_outfit_text(outerwear_body);
 	//Accessories cat
 	draw_menu_titletext(accessory_heading);
 	draw_outfit_text(accessory_hair);
@@ -50,8 +50,8 @@ if x<room_width {
 	draw_menu_titletext(social_stats);
 	draw_stat_text(gender_pres);
 	draw_stat_text(confidence);
-	draw_stat_text(lust);
-	draw_stat_text(socability);
+	draw_stat_text(composed);
+	draw_stat_text(sociability);
 	draw_stat_text(deflection);
 	//physical stats
 	draw_menu_titletext(physical_stats);
