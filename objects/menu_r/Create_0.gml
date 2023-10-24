@@ -6,6 +6,8 @@ edge = @"\
 
 animate = 0; //direction of menu slide, positive means slide in, negetive means slide out
 slide_spd = 10; //speed menu moves onscreen
+close = instance_create_layer(x,y,"Instances",close_parent_menu);
+close.parent = self;
 
 //positions on screen for text sections
 // array format [test string, x pos, y pos]; assuming drawing fa_left

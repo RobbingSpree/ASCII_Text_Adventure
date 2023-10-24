@@ -33,12 +33,13 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.6.0.92",
+    "IDEVersion": "2023.8.1.102",
   },
   "resources": [
     {"id":{"name":"textview","path":"objects/textview/textview.yy",},},
     {"id":{"name":"default_text","path":"fonts/default_text/default_text.yy",},},
     {"id":{"name":"menu_r","path":"objects/menu_r/menu_r.yy",},},
+    {"id":{"name":"close_parent_menu","path":"objects/close_parent_menu/close_parent_menu.yy",},},
     {"id":{"name":"smaller_font","path":"fonts/smaller_font/smaller_font.yy",},},
     {"id":{"name":"worldview_locations","path":"scripts/worldview_locations/worldview_locations.yy",},},
     {"id":{"name":"menu_button_r","path":"objects/menu_button_r/menu_button_r.yy",},},
@@ -62,6 +63,7 @@
     {"roomId":{"name":"title_room","path":"rooms/title_room/title_room.yy",},},
     {"roomId":{"name":"main_game","path":"rooms/main_game/main_game.yy",},},
   ],
+  "templateType": null,
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
   ],

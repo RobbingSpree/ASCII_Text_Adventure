@@ -21,6 +21,7 @@
   "ResourceOrderSettings": [
     {"name":"textview","order":2,"path":"objects/textview/textview.yy",},
     {"name":"menu_r","order":6,"path":"objects/menu_r/menu_r.yy",},
+    {"name":"close_parent_menu","order":9,"path":"objects/close_parent_menu/close_parent_menu.yy",},
     {"name":"smaller_font","order":1,"path":"fonts/smaller_font/smaller_font.yy",},
     {"name":"worldview_locations","order":1,"path":"scripts/worldview_locations/worldview_locations.yy",},
     {"name":"menu_button_r","order":5,"path":"objects/menu_button_r/menu_button_r.yy",},

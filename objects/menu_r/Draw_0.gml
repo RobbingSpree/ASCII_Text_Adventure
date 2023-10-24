@@ -70,3 +70,4 @@ if animate != 0 {
 	draw_text(x,0,slide_str);
 }
 
+
