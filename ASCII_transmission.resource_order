@@ -1,5 +1,5 @@
 {
-  "FolderOrderSettings": [
+  "FolderOrderSettings":[
     {"name":"Animation Curves","order":12,"path":"folders/Animation Curves.yy",},
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
     {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
@@ -18,21 +18,21 @@
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
-  "ResourceOrderSettings": [
-    {"name":"textview","order":2,"path":"objects/textview/textview.yy",},
-    {"name":"menu_r","order":6,"path":"objects/menu_r/menu_r.yy",},
-    {"name":"close_parent_menu","order":9,"path":"objects/close_parent_menu/close_parent_menu.yy",},
+  "ResourceOrderSettings":[
     {"name":"smaller_font","order":1,"path":"fonts/smaller_font/smaller_font.yy",},
-    {"name":"worldview_locations","order":1,"path":"scripts/worldview_locations/worldview_locations.yy",},
-    {"name":"menu_button_r","order":5,"path":"objects/menu_button_r/menu_button_r.yy",},
-    {"name":"text_bounding_box","order":4,"path":"objects/text_bounding_box/text_bounding_box.yy",},
-    {"name":"bg_box_popup","order":1,"path":"sprites/bg_box_popup/bg_box_popup.yy",},
-    {"name":"title_room","order":1,"path":"rooms/title_room/title_room.yy",},
-    {"name":"menu_l","order":8,"path":"objects/menu_l/menu_l.yy",},
-    {"name":"menu_button_l","order":4,"path":"objects/menu_button_l/menu_button_l.yy",},
+    {"name":"close_parent_menu","order":9,"path":"objects/close_parent_menu/close_parent_menu.yy",},
     {"name":"game_manager","order":7,"path":"objects/game_manager/game_manager.yy",},
-    {"name":"text_bounding_spr","order":2,"path":"sprites/text_bounding_spr/text_bounding_spr.yy",},
+    {"name":"menu_button_l","order":4,"path":"objects/menu_button_l/menu_button_l.yy",},
+    {"name":"menu_button_r","order":5,"path":"objects/menu_button_r/menu_button_r.yy",},
+    {"name":"menu_l","order":8,"path":"objects/menu_l/menu_l.yy",},
+    {"name":"menu_r","order":6,"path":"objects/menu_r/menu_r.yy",},
+    {"name":"text_bounding_box","order":4,"path":"objects/text_bounding_box/text_bounding_box.yy",},
     {"name":"textpopup","order":1,"path":"objects/textpopup/textpopup.yy",},
+    {"name":"textview","order":2,"path":"objects/textview/textview.yy",},
     {"name":"worldview","order":3,"path":"objects/worldview/worldview.yy",},
+    {"name":"title_room","order":1,"path":"rooms/title_room/title_room.yy",},
+    {"name":"worldview_locations","order":1,"path":"scripts/worldview_locations/worldview_locations.yy",},
+    {"name":"bg_box_popup","order":1,"path":"sprites/bg_box_popup/bg_box_popup.yy",},
+    {"name":"text_bounding_spr","order":2,"path":"sprites/text_bounding_spr/text_bounding_spr.yy",},
   ],
 }
