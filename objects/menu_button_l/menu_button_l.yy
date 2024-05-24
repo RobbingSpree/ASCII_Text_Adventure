@@ -10,8 +10,8 @@
   "name":"menu_button_l",
   "overriddenProperties":[],
   "parent":{
-    "name":"main game UI",
-    "path":"folders/Objects/main game UI.yy",
+    "name":"sub menu items",
+    "path":"folders/Objects/main game UI/sub menu items.yy",
   },
   "parentObjectId":null,
   "persistent":false,

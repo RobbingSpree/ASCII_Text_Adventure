@@ -1,6 +1,6 @@
 {
   "$GMObject":"",
-  "%Name":"close_parent_menu",
+  "%Name":"menu_tab",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
@@ -8,7 +8,7 @@
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":2,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"close_parent_menu",
+  "name":"menu_tab",
   "overriddenProperties":[],
   "parent":{
     "name":"sub menu items",
@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"bg_box",
-    "path":"sprites/bg_box/bg_box.yy",
+    "name":"bg_box_popup",
+    "path":"sprites/bg_box_popup/bg_box_popup.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -13,3 +13,16 @@ if animate != 0 {
 	
 	draw_text(x+room_width,0,slide_str);
 }
+
+//draw foreground text
+draw_set_halign(fa_center);
+if change_to == 0 {
+	draw_text(x+room_width/2,y+room_height/2,"this menu is out of sorts");
+} else if change_to == 1 {
+	draw_text(x+room_width/2,y+room_height/2,"this is the map screen\ntrust me on this");
+} else if change_to == 2 {
+	draw_text(x+room_width/2,y+room_height/2,"this is the invintory screen\nyou gotta believe me!");
+} else if change_to > 2 {
+	draw_text(x+room_width/2,y+room_height/2,"this menu is out of range");
+}
+draw_set_halign(-1);

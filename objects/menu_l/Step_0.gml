@@ -5,7 +5,7 @@ if animate != 0 {
 	if animate == 1
 	if ((x+1) >= 1) {
 		animate = 0;
-		alarm[0] = 60; //debug turns animate to -1
+		
 	}
 	
 	if animate == -1
@@ -14,3 +14,4 @@ if animate != 0 {
 		game_manager.menu_open = menus.none;
 	}
 }
+
