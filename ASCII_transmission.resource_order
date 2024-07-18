@@ -30,6 +30,7 @@
     {"name":"text_bounding_box","order":4,"path":"objects/text_bounding_box/text_bounding_box.yy",},
     {"name":"textpopup","order":1,"path":"objects/textpopup/textpopup.yy",},
     {"name":"textview","order":2,"path":"objects/textview/textview.yy",},
+    {"name":"ui_circle_text","order":6,"path":"objects/ui_circle_text/ui_circle_text.yy",},
     {"name":"worldview","order":3,"path":"objects/worldview/worldview.yy",},
     {"name":"title_room","order":1,"path":"rooms/title_room/title_room.yy",},
     {"name":"worldview_locations","order":1,"path":"scripts/worldview_locations/worldview_locations.yy",},

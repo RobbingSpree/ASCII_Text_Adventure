@@ -52,6 +52,7 @@
     {"id":{"name":"textpopup","path":"objects/textpopup/textpopup.yy",},},
     {"id":{"name":"textview","path":"objects/textview/textview.yy",},},
     {"id":{"name":"title_logo","path":"objects/title_logo/title_logo.yy",},},
+    {"id":{"name":"ui_circle_text","path":"objects/ui_circle_text/ui_circle_text.yy",},},
     {"id":{"name":"worldview","path":"objects/worldview/worldview.yy",},},
     {"id":{"name":"main_game","path":"rooms/main_game/main_game.yy",},},
     {"id":{"name":"title_room","path":"rooms/title_room/title_room.yy",},},

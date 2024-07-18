@@ -34,3 +34,8 @@ image_xscale = string_width(box_h)/sprite_width;
 image_yscale = string_height(box_v)/sprite_height;
 
 draw_set_font(-1);
+
+mouseover = false;
+ui_label = instance_create_layer(x+(wid/2*unitx),y+(hei/2*unity),"Instances",ui_circle_text);
+ui_label.str = "Map!  Map!  Map!  Map! "
+ui_label.mom = self;
