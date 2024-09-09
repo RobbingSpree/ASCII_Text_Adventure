@@ -33,7 +33,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.1.152",
+    "IDEVersion":"2024.6.2.162",
   },
   "name":"ASCII_transmission",
   "resources":[
@@ -52,6 +52,7 @@
     {"id":{"name":"textpopup","path":"objects/textpopup/textpopup.yy",},},
     {"id":{"name":"textview","path":"objects/textview/textview.yy",},},
     {"id":{"name":"title_logo","path":"objects/title_logo/title_logo.yy",},},
+    {"id":{"name":"tooltip","path":"objects/tooltip/tooltip.yy",},},
     {"id":{"name":"ui_circle_text","path":"objects/ui_circle_text/ui_circle_text.yy",},},
     {"id":{"name":"worldview","path":"objects/worldview/worldview.yy",},},
     {"id":{"name":"main_game","path":"rooms/main_game/main_game.yy",},},

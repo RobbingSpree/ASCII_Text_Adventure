@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"worldview_locations",
   "isCompatibility":false,
   "isDnD":false,
