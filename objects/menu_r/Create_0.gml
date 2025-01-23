@@ -40,7 +40,7 @@ accessory_jewlery = ["Jewellery: ",item_indent,accessory_shoes[2]+item_to_item_g
 
 var align_x = 500;
 var title_to_first_gap = 30;
-var item_to_item_gap = 30;
+item_to_item_gap = 30;
 var last_in_social_gap = 40;
 //stats and bars
 character_stats = ["-Character Stats-",500,110];

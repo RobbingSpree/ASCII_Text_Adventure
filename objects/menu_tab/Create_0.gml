@@ -9,8 +9,8 @@ str[2] = @"|       |
  
 draw_set_font(default_text);
 
-image_yscale = string_height(str)/sprite_height;
-image_xscale = string_width(str)/sprite_width;
+image_yscale = string_height(str[1])/sprite_height;
+image_xscale = string_width(str[1])/sprite_width;
 
 //dimentions in characters from monospace font
 wid = 9;
