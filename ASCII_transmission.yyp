@@ -1,5 +1,5 @@
 {
-  "$GMProject":"",
+  "$GMProject":"v1",
   "%Name":"ASCII_transmission",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
@@ -16,6 +16,7 @@
     {"$GMFolder":"","%Name":"Notes","folderPath":"folders/Notes.yy","name":"Notes","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"main game UI","folderPath":"folders/Objects/main game UI.yy","name":"main game UI","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"map objects","folderPath":"folders/Objects/main game UI/map objects.yy","name":"map objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"sub menu items","folderPath":"folders/Objects/main game UI/sub menu items.yy","name":"sub menu items","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Title Screen objects","folderPath":"folders/Objects/Title Screen objects.yy","name":"Title Screen objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Particle Systems","folderPath":"folders/Particle Systems.yy","name":"Particle Systems","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -29,11 +30,12 @@
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
+  "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.11.0.179",
+    "IDEVersion":"2024.13.1.193",
   },
   "name":"ASCII_transmission",
   "resources":[
@@ -43,6 +45,7 @@
     {"id":{"name":"close_parent_menu","path":"objects/close_parent_menu/close_parent_menu.yy",},},
     {"id":{"name":"close_parent","path":"objects/close_parent/close_parent.yy",},},
     {"id":{"name":"game_manager","path":"objects/game_manager/game_manager.yy",},},
+    {"id":{"name":"map_node","path":"objects/map_node/map_node.yy",},},
     {"id":{"name":"menu_button_l","path":"objects/menu_button_l/menu_button_l.yy",},},
     {"id":{"name":"menu_button_r","path":"objects/menu_button_r/menu_button_r.yy",},},
     {"id":{"name":"menu_l","path":"objects/menu_l/menu_l.yy",},},
@@ -61,6 +64,7 @@
     {"id":{"name":"worldview_locations","path":"scripts/worldview_locations/worldview_locations.yy",},},
     {"id":{"name":"bg_box_popup","path":"sprites/bg_box_popup/bg_box_popup.yy",},},
     {"id":{"name":"bg_box","path":"sprites/bg_box/bg_box.yy",},},
+    {"id":{"name":"bg_easy_b","path":"sprites/bg_easy_b/bg_easy_b.yy",},},
     {"id":{"name":"text_bounding_spr","path":"sprites/text_bounding_spr/text_bounding_spr.yy",},},
   ],
   "resourceType":"GMProject",

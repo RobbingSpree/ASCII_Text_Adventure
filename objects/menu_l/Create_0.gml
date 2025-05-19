@@ -21,3 +21,9 @@ bag_tab.tab_position=2;
 bag_tab.parent = self;
 
 change_to = 1;
+
+//map points
+debug = instance_create_layer(x-300,y-300,"Instances_higher_still",map_node);
+debug.parent = self;
+debug.x_off = 300;
+debug.y_off = 300;

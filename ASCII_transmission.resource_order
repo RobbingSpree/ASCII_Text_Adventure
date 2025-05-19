@@ -6,6 +6,7 @@
     {"name":"Notes","order":13,"path":"folders/Notes.yy",},
     {"name":"Objects","order":9,"path":"folders/Objects.yy",},
     {"name":"main game UI","order":3,"path":"folders/Objects/main game UI.yy",},
+    {"name":"map objects","order":11,"path":"folders/Objects/main game UI/map objects.yy",},
     {"name":"sub menu items","order":10,"path":"folders/Objects/main game UI/sub menu items.yy",},
     {"name":"Title Screen objects","order":5,"path":"folders/Objects/Title Screen objects.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
@@ -36,6 +37,7 @@
     {"name":"title_room","order":1,"path":"rooms/title_room/title_room.yy",},
     {"name":"worldview_locations","order":1,"path":"scripts/worldview_locations/worldview_locations.yy",},
     {"name":"bg_box_popup","order":1,"path":"sprites/bg_box_popup/bg_box_popup.yy",},
+    {"name":"bg_easy_b","order":3,"path":"sprites/bg_easy_b/bg_easy_b.yy",},
     {"name":"text_bounding_spr","order":2,"path":"sprites/text_bounding_spr/text_bounding_spr.yy",},
   ],
 }
